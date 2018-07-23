@@ -1,3 +1,17 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Devan Grose
+
+1. Linus Torvalds
+
+2. Our Lord and Savior Linus Torvalds also invented Linux
+
+3. 2003
+
+4. git init
+
+5. The 'push' command is taking the commited changes and pusing them to the remote repository.
+
+
