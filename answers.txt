@@ -1,3 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Niko Tsafos
+
+1. Linus Torvalds
+2. Linex
+3. 2005
+4. git init
+5. git push is updating the changes you've made in your local git to your github
+remote repository. From local to the cloud.
