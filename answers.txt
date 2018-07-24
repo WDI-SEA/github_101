@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Who invented Git? Linus Torvalds
+2. What else is the person who invented Git famous for? Linus Torvalds created Linux
+3. What year was Git invented? it was created in 2005
+4. What is the git command to initialize a new repository? git init
+5. In your own words, describe what the command git push is doing? Git push sends changes mad locally and staged to the remote repository(the origin).
