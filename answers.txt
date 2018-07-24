@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kelsey Green
+
+1) Git was created by Linus Torvalds
+
+2) Torvalds is also the principal developer of the Linux kernel
+
+3) Git was developed in 2005
+
+4) git init
+
+5) git push moves the content of your local git repository to a remote repository like git hub
+
