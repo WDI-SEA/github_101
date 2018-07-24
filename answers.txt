@@ -1,3 +1,21 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Yuanjie Li
+
+1.Who invented Git?
+ Linus Torvalds Invented Git, But He Pulls No Patches With GitHub.
+
+
+2. What else is the person who invented Git famous for?
+   He is the creator, and historically, the principal developer of the Linux kernel, which became the kernel for operating systems such as the Linux operating systems, Android, and Chrome OS.
+
+3. What year was Git invented?
+   2005
+
+4. What is the git command to initialize a new repository?
+   git init
+
+5. In your own words, describe what the command git push is doing.
+   git push is pushing the coding from the commit which is the code that is ready to be sent to the github repository. 
