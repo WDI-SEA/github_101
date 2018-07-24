@@ -1,3 +1,17 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+By: Andres Fresnedo
+
+1) Linus Torvalds
+2) He is famous for inventing Linux.
+3) It was invented in 2005.
+4) git init
+5) git push is updating the remote repository. To add some more information, in
+   this case 'git push' is using the default settings. In class, this would
+   have fast forwarded the remote branch (the forked master repository that we
+   had cloned) to match the status of what we were pushing. Since we were
+   using Github in class, that is the host of the repository that we were
+   pushing to. It really depends on the settings/context, but the way
+   I interpret that commmand is "bring the remote branch, of this branch that
+   i'm working on, up to date with my local branch".
