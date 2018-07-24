@@ -1,3 +1,5 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+1. Linus Torvalds 
+2. Linus Torvalds is also famous for devoloping the Linux kernal. 
+3. Git was released 7 April 2004; 13 years ago. 
+4. The git command to initialize is git init 
+5. Git push sends your fork to the original master fork. 
