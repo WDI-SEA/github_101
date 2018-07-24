@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. He created the Linux Kernal 
+3. 2005
+4. git init 
+5. git push transfers the last commits to a remote server
