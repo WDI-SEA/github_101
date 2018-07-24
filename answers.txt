@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Zach VanSomeren
+1.  Linus Torvalds invented Git.
+
+2.  Linus was also the principle developer of the Linux kernel.
+
+3.  Git was created in 2005.
+
+4.  The git command to initialize a new repository is: 'git init'.
+
+5.  The 'git push' command takes the local files the developer has committed and uploads them to the GitHub remote repository.
