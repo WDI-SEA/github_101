@@ -1,3 +1,8 @@
-Your answers go here!
-Please include your name and number your answers.
+Alex Danielson
+1. Linus Torvalds
+2. He is famous for creating Git, and the operating system Linux --  he also has an asteroid named after him (pretty cool).
+3. Git was developed and released in 2005.
+4. The git init command creates a new Git repository.
+5. It sends the code or text you've made or altered to be uploaded from your local repository to the remote repository.
+
 ==================================================
