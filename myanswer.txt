@@ -1,0 +1,15 @@
+My name: An Van
+
+1. Who invented Git?
+Linus Torvalds
+
+2. What else is the person who invented Git famous for?
+He created Linux kernel, Linux, Git, Subsurface
+
+3. What year was Git invented?
+2005
+4. What is the git command to initialize a new repository?
+git init
+
+5. In your own words, describe what the command git push is doing.
+we push the file in our git to the github
