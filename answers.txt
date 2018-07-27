@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Jon Linch Answers to Github 101 quiz
+1. Linus Torvalds invented Git.
+2. He was the principal developer behind the Linux Kenrnal which is used in the Linux OS, Android, and Chrome OS.
+3. Git was invented in 2005.
+4. "git init" is used to initialize a new repository.
+5. "git push" takes all the things you've done to a document on your local computer and sends those changes to GitHub to be saved there.
