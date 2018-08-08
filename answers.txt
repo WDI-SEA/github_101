@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Gwendolyn Jones
+
+1. Who invented Git?
+	Linus Torvalds
+2. What else is the person who invented Git famous for?
+	Linux Kernel
+3. What year was Git invented?
+	2005
+4. What is the git command to initialize a new repository?
+	git clone (link)
+5. In your own words, describe what the command git push is doing.
+	git push is taking my files that I've committed (saved locally) and pushing them up to the remote depository. At that point, my files are compared to what's already in place at the remote level and checking to see if there are any conflicts. At this point, my files are part of the remote repository, but the previous local versions remain as they were in commits prior to push.
