@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Paolo Chidrome WDI-22
+
+## Quiz Questions
+
+#### 1. Who invented Git? Linus Torvalds
+
+#### 2. What else is the person who invented Git famous for? For creating Linux Kernel(Kernel). Which is now used in operating systems such as Chrome OS and Android.
+
+#### 3. What year was Git invented? 2005
+
+#### 4. What is the git command to initialize a new repository? git init
+
+#### 5. In your own words, describe what the command `git push` is doing.  ----The command git push takes the changes you've made in the cloned git version and uploads it into your gitHub account into the forked repository.
