@@ -1,3 +1,10 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+James Liu
+
+1. Linus Torvalds
+2. He is more famous for Linux
+3. 2005
+4. git init
+5. git push takes your commit and pushes it to your remote repository, such as Github.
