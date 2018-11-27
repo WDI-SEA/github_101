@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. git push is taking everythihng we commited in the in the terminal and sending it back to github.
