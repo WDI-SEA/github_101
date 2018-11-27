@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. Inventing Linux
+3. 2005
+4. git init
+5. upload version changes from your local computer to your github account
