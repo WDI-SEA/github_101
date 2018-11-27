@@ -1,3 +1,10 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. The same guy who invented Linux, Linus Torvalds
+2. Inventing Linux (and naming his programmes after himself)
+3. 2005
+// this question features some extra credit answers!
+4. Create a new directory for the project, cd into it, type 'git init', add some code in files. Type 'git add -A', then type 'git commit'.
+If you want it on gitHub, log into your account, click on the 'new repository' button, click 'Create repository' button. In the terminal, type 'git remote add origin https://github.com/[username]/[new_repo], then type git push -u origin master.
+5. 'git push' takes all the work you've commited and pushes it to your gitHub repo.
