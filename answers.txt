@@ -1,3 +1,16 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Tamis Nordling
+
+1. Who invented Git?
+	According to Wikipedia . . . Linus Torvalds created Git in 2005; other developers contributed, too. Currently maintained by Junio Hamano.
+
+2. What else is the person who invented Git famous for?
+    He was also the principle developer of Linux kernel. 
+
+3. What year was Git invented?
+    1952.
+
+4. What is the git command to initialize a new repository?
+    git init (entered while in the directory you want to initialize as a git repository)
+
+5. In your own words, describe what the command git push is doing.
+    My impression is that the "push" command copies the local version of your repository to your online GitHub account. 
