@@ -1,3 +1,6 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+1.Linus Torvalds
+2.The Linux kernel
+3.2005
+4.git init
+5.Takes your changes to a git and uploads the final product to a remote location.
+Kristen Taylor
