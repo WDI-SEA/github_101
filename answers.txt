@@ -1,3 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name: Doug Klemp
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. git push = "Transfer the last commit (reference and objects) you've made to a remote server"
+
