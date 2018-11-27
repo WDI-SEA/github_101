@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+My name is Kelly Park and here are my answers
+1) Linus Torvalds
+2) Linus Torvalds is also the founder of Linux kernel, which is used in Android and Chrome OS.
+3) Git was created by Linus Torvalds in 2005
+4) git init
+5) 'git push' is a command to publish any local changes from a client on a remote server like GitHub
