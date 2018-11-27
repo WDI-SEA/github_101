@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Hanad Rage 
+1) GitHub was developed by Chris Wanstrath, PJ Hyett, Tom Preston-Werner and Scott Chacon
+2) the developers of github are also famous for creating the avatar service called Gravatar
+3) Github was created in 2008
+4) the git command to initiatalize a new reprository is git init
+5)  git push is pushing your new changes to your created resprository on Github, thus saving your work
