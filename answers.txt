@@ -1,3 +1,19 @@
 Your answers go here!
-Please include your name and number your answers.
-==================================================
+Quiz Questions
+Answers by: Parker Couch
+
+1. Who invented Git?
+  Linus Torvalds
+
+2. What else is the person who invented Git famous for?
+  Creating the Linux Kernel
+
+3. What year was Git invented?
+  2005
+
+4. What is the git command to initialize a new repository?
+  git init
+
+5. In your own words, describe what the command `git push` is doing.
+  This will take all the local commits and 'push' (copy) them to another location.
+  Usually a location that others can access or used as a backup.
