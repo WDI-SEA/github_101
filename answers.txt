@@ -1,3 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Justin King
+
+1) Linus Torvalds invented Git.
+2) Linus Torvalds also invented the Linux kernel.
+3) Git was created in 2005.
+4) git init initializes a new repository.
+5) git push updates your github to reflect the changes that you have committed in git.
