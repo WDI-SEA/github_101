@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. Creator of the Linux Kernel
+3. 2005
+4. git init
+5. git push - pushes files back upstream, updating your repository.  You must Add the files first, commit them, then push what you have queued up.
