@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Nathan Page
+1. Linus Torvalds
+2. inventing Linux
+3. 2005
+4. git init
+5. copying the version of a file that is on your local machine to your Github profile, where it can then--in the case of 3rd party ownership--be requested that the owner review and adopt the changes to the master copy of the project
