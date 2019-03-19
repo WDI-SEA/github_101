@@ -1,3 +1,10 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Jossh Duran
+1. Juno Hamano
+2. Hacker
+3. 04/7/2005
+4. git init
+5. The git push command allows to upload the code changes from 
+    your computer into the github website.
