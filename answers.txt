@@ -1,3 +1,19 @@
 Your answers go here!
 Please include your name and number your answers.
+
+Miguel Torres
+
+1.-Linus Torvalds
+
+2.-is the creator, and historically,
+the principal developer of the Linux kernel
+
+3.-The development of Git began on 3 April 2005.
+Torvalds announced the project
+on 6 April; it became self-hosting as of 7 April.
+
+4.- git init
+
+5.-It puts what you had in the local computer into
+your remote account.
 ==================================================
