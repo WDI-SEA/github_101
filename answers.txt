@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
+Samantha Helmbreck
+1. Linus Torvalds invented Git.
+2. Linus Torvalds is also famous for the creation/invention of the Linux Kernel.
+3. Git was invented in 2005.
+4. The git command initialize a new git repository is git init.
+5. To me git push means, publishing all new commits to the remote repository on github. 
 ==================================================
