@@ -1,3 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name : Bryan Brinson
+
+1. Linus Torvalds  
+2. Linux
+3. 2005
+4. git init
+5. "git push" merges your local, commited, changes to remote repository. The remote location is typically identified by the default alias "origin" and a branch, such as "master". 
