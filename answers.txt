@@ -1,3 +1,5 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+1. Linus Tovralds
+2. Creating the Linux kernal
+3. 2005, specifically April 3, 2005
+4. git init
+5. git push copy's whatever work you've done your your computer to a remote server. It's usually commits that are added
