@@ -1,3 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name: Christopher Smith
+
+1. Git was invented by Linus Torvalds.
+2. He also is credited for creating the Linux kernel, as well as a scuba-diving software called Subsurface.
+3. Git was invented in 2005.
+4. The command to initialize a new repository from scratch is: git init . If you use the command: git clone, an already-initialized repository will be included.
+5. The command: git push, uploads the content in a local repository to a remote repository.
