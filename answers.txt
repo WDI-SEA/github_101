@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Abdikarem Ahmed
+1.Linus Torvalds
+2.Creating Linux
+3.2005
+4.Git init
+5.Git push is how you would take your changes on a file and upload the to gitgub
