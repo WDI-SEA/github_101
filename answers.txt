@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Gabe Toledo
+1. Linus Torvalds
+2. Linux Kernel
+3. 2005
+4. git init
+5. "git push" pushes your changes to your local repository to a specified remote repository.
