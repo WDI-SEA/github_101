@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Who invented Git?
+	Linus Torvalds, a Finnish-American.
+2. What else is the person who invented Git famous for?
+	He is also famous for inventing the Linux kernel, which helped give birh to operating systems like Android and Chrome OS.
+3. What year was Git invented?
+	2005, 14 years ago.
+4. What is the git command to initlialize a new repository?
+	"git init"
+5. In your own wrods, describe what the command "git push" is doing?
+	That command is basically taking the package of all of your new stuff to the post office to be delivered. This is the final step that will add all of your changes from your local repository to your remote repository.
