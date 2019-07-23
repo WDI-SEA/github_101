@@ -1,3 +1,18 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Jonathan Gross
+
+1. Linus Torvalds (perhaps one of 30 some Torvalds that exist), created Git.
+
+2. In 1991 Linus created the free Linux os kernel because he couldn't afford the 
+Unix system, which had limited features for private users. 
+
+3. Git was originally made in 2005 to support Linux, with features that were learned/adapted from BitKeeper. 
+
+4. git init creates a new empty repository. 
+
+5. Once I have declared I am ready to share my file changes (git add), 
+and I have committed those changes (stamped with a message), I need to send 
+those changes on my computer to my repository on github by "pushing" them. 
