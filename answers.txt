@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+##Shukri Abdi
+
+#1. Who invented Git?
+
+Linus Torvalds
+
+#2. What else is the person who invented Git famous for?
+
+Linus is also famous for being the founder and coordinator Linux
+
+#3. What year was Git invented?
+
+2005
+
+#4. What is the git command to initialize a new repository?
+
+git init command creates a new Git repository
+
+#5. In your own words, describe what the command git push is doing.
+
+Git push uploads all changes made in your local repository up to your remote repository.
