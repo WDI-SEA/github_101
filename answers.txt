@@ -1,3 +1,10 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Joshua Hunter
+
+1) Linus Torvalds
+2) He is also the principle developer of the Linux kernel and Crumble the strategy board game
+3) April 2005
+4) In GitHub, you can create new file, but you can also fork an existing repository and clone it to your own terminal using git clone in the terminal session.
+5) git push is taking any changes to the original repository made on my local repository and pushes it to my account in Git. Then I have the option to submit back to the original author of the repository we forked and cloned.
