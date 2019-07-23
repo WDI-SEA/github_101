@@ -1,3 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds created git.
+2. He also created the Linux kernal.
+3. Git was invented in 2005
+4. git init
+5. git push is sending the version of git from the local user for storage. IE it creates a new iteration of your code to refer back to.
