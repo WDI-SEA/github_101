@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Linus Torvalds
+He is the founder and coordinator of Linux
+2005
+git init
+pushes the local changes I've made onto a remote server
