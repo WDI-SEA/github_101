@@ -2,3 +2,10 @@ Your answers go here!
 Please include your name and number your answers.
 ==================================================
 hello sei28
+
+1.Linus Torvalds 
+2.Linux kernel
+3.2005
+4.git init
+5.fetch all changes from repo
+
