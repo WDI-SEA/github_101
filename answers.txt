@@ -2,3 +2,8 @@ Your answers go here!
 Please include your name and number your answers.
 ==================================================
 Hello SEI 28
+1. Git was invented by Linus Torvalds
+2. Torvalds also invented the Linux kernel which is used for the Linux operating systems.
+3. GitHub started in 2007
+4. Use the command 'git init' to initialize a new git repository.
+5.  'git push' sends all commited changes on the working clone to the master repository.
