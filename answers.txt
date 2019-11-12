@@ -1,4 +1,23 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
-gkgkghfj
+
+1. Who invented Git?
+
+Linus Torvalds
+
+2. What else is the person who invented Git famous for?
+
+The Linux OS
+
+3. What year was Git invented?
+
+2005
+
+4. What is the git command to initialize a new repository?
+
+git init
+
+5. In your own words, describe what the command git push is doing.
+
+Shipping our "packaged up" code to a remote location (so that it matches up with our local version)
