@@ -1,3 +1,20 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Name: Yashoma Boodhan
+
+Questions & Answers:
+1. Who invented Git?
+    Linus Torvalds (source: https://en.wikipedia.org/wiki/Git)
+
+2. What else is the person who invented Git famous for?
+    Linux kernel -- the kernel for Linux OS, Android, and Chrome OS (source: https://en.wikipedia.org/wiki/Linus_Torvalds)
+
+3. What year was Git invented?
+    2005 (source: https://en.wikipedia.org/wiki/Git)
+
+4. What is the git command to initialize a new repository?
+    git init
+
+5. In your own words, describe what the command git push is doing.
+    The "git push" command is used to upload changes made to the repository on your computer to the online host for repositories, like GitHub.
