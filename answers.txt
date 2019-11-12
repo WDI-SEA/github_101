@@ -2,3 +2,8 @@ Your answers go here!
 Please include your name and number your answers.
 ==================================================
 hello SEI 28
+1. Linus Torvalds
+2. Developing the Linux Kernel
+3. 2005
+4. Git init
+5. Git push takes what you are working on on your computer and pushes it to the repository.
