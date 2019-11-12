@@ -1,4 +1,8 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
-hello SEI 28
+Linus Torvalds
+Also invented the Linux Kernel
+2005
+git init
+git push takes the code you have created and adds it to the remote repository. This allows others to view the code that you have written / worked on.
