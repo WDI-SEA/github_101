@@ -1,3 +1,9 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kennan Salisbury
+1. Linus Torvalds
+2. Was also a key player in the development of Linux
+3. 2005
+4. git init
+5. git push is taking the updated files that you've made changes to in your local repository (on your computer) and sending them to be stored in a remote repository on the web
