@@ -1,3 +1,21 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Who invented Git?
+ Linus Torval invented Git.
+
+2. What else is the person who invented Git famous for?
+
+Linus Torval is also the principal developer of the Linux kernal.
+
+3. What year was Git invented?
+
+Git was invented in 2005.
+
+4. What is the git command to initialize a new repository?
+
+git init
+
+5. In your own words, describe what the command git push is doing.
+
+The command git push is taking a copy of the committed changes and saving them to the remote repository.
