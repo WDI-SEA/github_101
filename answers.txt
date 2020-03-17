@@ -1,3 +1,32 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+## Quiz Questions
+
+#### 1. Who invented Git?
+Linus Torvalds invented Git in 2005. 
+
+#### 2. What else is the person who invented Git famous for?
+Linus is also the father of the Linux kernel.
+
+#### 3. What year was Git invented?
+2005
+
+#### 4. What is the git command to initialize a new repository?
+git init
+
+#### 5. In your own words, describe what the command `git push` is doing.
+This command creates a new repo. We can either initialize a new empty repo or tell git to start tracking revisions in an existing folder that we have navigated to.
+
+#### 6. What is the purpose of a `.gitignore` file?
+To  track files that should be ignored. These can include personal IDE configs, runtime generated codes or hidden system files. 
+
+#### 7. What is a fork? Why would you want to have a fork?
+Little mermaid's hair brush. haha just kidding.
+Forks are personal copies of the repository, typically on the server side. It's good practice to fork so you don't have to worry about affecting the original repo. Often times you are suggesting changes to someone's project or using the original repo as a basis for your own project. There's a connection between the original repo and your personal copy. 
+
+#### 8. What is a clone? How many clones can you have?
+A copy of the target repo usually on your local machine. As many clones as you want!
+
+#### 9. Should you put a Github repository inside of another Github repository?
+NO! that's not a good idea.
+
+#### 10. You can type `git status` at any time while in a git repository - true or false?
+TRUE.
