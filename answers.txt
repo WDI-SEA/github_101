@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Ruchita 
+
+1. Linus Torvalds invented Git in 2005 for development of Linux Kernel.
+
+2. He is the principal developer of Linux Kernel and also created the scuba dive logging and planning software Subsurface.
+
+3. It was invented in 2005.
+
+4. It is : git init.
+
+5. Git push command pushes the committed content of a local repository to a remote repository.
+
+6.The purpose of gitignore file is to maintain those files which are untracked and ignored by Git.
+
+7.Fork creates a personal copy of someone else's project into our remote repository. This way we can modify the same project by working on its copy that we have, without affecting the actual code that someone else's has written. We do not want other's code to change permanently without their permission, so having a copy by fork allows us to modify their code on our remote repository. And if there are errors in our code, it will only reflect in our forked project or our personal copy. Fork also acts as a bridge to give back to the original project by submitting pull request.
+
+
+8. Clone creates a copy of original remote repository onto your local machine so that you can modify the project and sync it with the original remote repo if that is yours. Clone also acts like a backup copy of your project. You can have as many clones of the same repo on your local machine as you wish but not in the same directory. It is because once you run the git clone command in your specified directory, it will not allow you to create another clone rather it will give a message stating that the same folder name already exists.
+
+9. As a best practice one should not put one Github repo into another.
+
+10. True.
