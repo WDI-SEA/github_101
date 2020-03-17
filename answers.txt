@@ -1,3 +1,12 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Samuel Hawkins
+
+1 Linus Torvalds
+2 linux
+3 2005
+4 git init
+5 pushing our changes to a repository or branch of a repository.
+6 specifies files that git needs to ignore.
+7 pulling off a branch of a repository master repository so you can clone it.
+8 a clone is a copy of the master repositories files you can have as many clones as you need
+9 you can but you shouldn't
+10 true

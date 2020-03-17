@@ -18,7 +18,7 @@ You may or may not have encountered a file called `.gitignore`. If you haven't, 
 
 1. Sometimes we have private data (e.g., API keys) in `.env` files that doesn't belong on the internet
 1. Sometimes we have files / folders that are huge and it can save us a lot of time to just not include them
-  * Once we get to unit 2, we'll always want to exclude the gigantic `node_modules` folder! 
+  * Once we get to unit 2, we'll always want to exclude the gigantic `node_modules` folder!
 1. Including these files and folders may complicate or mess up your deployments
   * Don't complicate your life 🙂
 
@@ -38,7 +38,7 @@ You can find a [complete list of best practices here](https://gist.github.com/ro
 
 On the upper righthand corner of this page, you will see a button that says `Fork`. Press that button!!! This will fork it to your personal Github account. This means that a complete copy of all the code and all the commits will be added to your Github account. Remember - a fork is a *copy* which now exists separately than the original repository that you forked from!
 
-> **Note**: If you have access to multiple accounts or organizations on Github, you may get a pop-up asking you which one you want to use. 
+> **Note**: If you have access to multiple accounts or organizations on Github, you may get a pop-up asking you which one you want to use.
 
 #### 2. Clone it!
 
@@ -46,13 +46,13 @@ Once you have a "fork" of the repository on your own account, you want to clone 
 
 ![](http://res.cloudinary.com/briezh/image/upload/v1531169741/Screen_Shot_2018-07-09_at_1.55.16_PM_kb0fuq.png)
 
-> **Protip**: If you made SSH keys in class, you should use the SSH link. Otherwise, you can use the HTTPS link. 
+> **Protip**: If you made SSH keys in class, you should use the SSH link. Otherwise, you can use the HTTPS link.
 
-Once you have this link copied, go to your terminal and run the command 
+Once you have this link copied, go to your terminal and run the command
 
 ```bash
 git clone THE_LINK_YOU_COPIED
-``` 
+```
 
 You may or may not be prompted for a password before the clone can take place.
 
@@ -90,7 +90,7 @@ or
 
 ```bash
 code .
-``` 
+```
 
 #### 5. Answer the [Quiz Questions](#quiz-questions) Below
 
@@ -102,7 +102,7 @@ Save the answers.txt file when you're done. Close the text editor.
 
 #### 7. Check yourself
 
-Run the following command. 
+Run the following command.
 
 ```bash
 git status
@@ -118,7 +118,7 @@ You can add files to be staged for (ready to go into) the next commit. The follo
 git add .
 ```
 
-> **Protip**: The `git init` command is only necessary when you're starting a repository from scratch! Since we used the `git clone` command, we already have an initialized repository. 
+> **Protip**: The `git init` command is only necessary when you're starting a repository from scratch! Since we used the `git clone` command, we already have an initialized repository.
 
 #### 9. Commit to it!
 
@@ -138,15 +138,15 @@ What this step does is take our commits and send them to wherever we specify. In
 git push origin master
 ```
 
-In this case, `origin` refers to Github — where the code originated! We can use the push command to push to Github or any another place that might host our repository. We'll also use it to deploy our sites to `Heroku` later in the course. For now, it's important to realize that the code on your Github account and the code on your machine don't match until you send your changes to Github via this push command! 
+In this case, `origin` refers to Github — where the code originated! We can use the push command to push to Github or any another place that might host our repository. We'll also use it to deploy our sites to `Heroku` later in the course. For now, it's important to realize that the code on your Github account and the code on your machine don't match until you send your changes to Github via this push command!
 
-The `master` at the end of the command refers to the *branch*. Master is always the default branch, and for now, it's the only one we'll use. Later in the course we'll get into branches. 
+The `master` at the end of the command refers to the *branch*. Master is always the default branch, and for now, it's the only one we'll use. Later in the course we'll get into branches.
 
 #### 11. One Last Step!!!
 
 Go into your internet browser and refresh the page with your forked repository. Do you see your changes on Github now?
 
-If so, your one last step is to make a `pull request`. The term is a little bit confusing, but it means to essentially show the original repository the changes you made on your own version. It alerts the owner of the original repository and opens up the code for comments and review. 
+If so, your one last step is to make a `pull request`. The term is a little bit confusing, but it means to essentially show the original repository the changes you made on your own version. It alerts the owner of the original repository and opens up the code for comments and review.
 
 > **Protip**: You can double check whether your pull request went through by clicking on the pull requests tab and looking for your username! See the example below (on a different repository).
 
