@@ -1,3 +1,32 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Who invented Git?
+	A whole community, but Linus Torvald chief among them
+
+2. What else is the person who invented Git famous for?
+	He also created Linux because he wanted an open-source operating system that he could edit to meet his needs
+
+3. What year was Git invented?
+	2005
+
+4. What is the git command to initialize a new repository?
+	git init (short for git: Initialize)
+
+5. In your own words, describe what the command git push is doing.
+	It is taking a set of files that you have edited from your current station and placing them in the master repository.
+
+6. What is the purpose of a .gitignore file?
+	To tell the repository what it shouldn't send as part of any upload or download. Generally this is in regard to sensitive information that you don't want to be out in the open or giant files that are impractical to constantly push toward your master repository
+
+7. What is a fork? Why would you want to have a fork?
+	A fork is essentially a copy of a repository, but one that maintains a connection to its source so that you may submit "Pull requests" to the author(s) with changes you wish to be part of the primary repository
+
+8. What is a clone? How many clones can you have?
+	A clone of a repository is similar to a fork but instead of occuring between two different repositories on github it is between a github repository and a local repository and you have much more freedom with what gets pushed into the original version. There is no hard limit for clones, but practically you should try to limit the number of clones made from the repository to keep the scope of the project under control
+
+9. Should you put a Github repository inside of another Github repository?
+	NO
+
+10. You can type git status at any time while in a git repository - true or false?
+	True? I can't find anything to the contrary nor would I expect such a limitation to exist
