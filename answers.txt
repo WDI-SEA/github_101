@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Adam Honore, missing#
+
+1. Linus Torvalds invented Git.
+2. He is also famous for being the principle developer of the Linux kernel (Linux systems), Subsurface, and other operating systems like Android and Chrome OS.
+3. GitHub was released in February 2008. The company has existed since 2007.
+4. Git init
+5. Git push updates a remote repository with changes made on a local or cloned repository, or in other words, the files on a computer.
+6. A .gitignore file prevents private data or large files and folders in a repository from being uploaded to the internet in order protect privacy and avoid complications.
+7. A fork is a complete separate copy of all code and commits in a remote repository. A fork can be used for cloning a repository without editing the repository master.
+8. A clone is a copy of a remote repository that has been copied to a computer. Clones are used to make edits to code on a remote repository locally, without affecting the remote repository.
+9. No. It's possible with a fork and clone of another GitHub repository, but making branches of the first GitHub repository would make more sense in terms of workflow. 
+10. True in the terminal (locally).
+
