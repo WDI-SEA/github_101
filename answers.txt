@@ -4,7 +4,7 @@ Please include your name and number your answers.
 
 1.) Linus Torvalds
 
-2.) He was a principle developer of Linux Kernal and also developed Subsurface.
+2.) He was a principle developer of Linux Kernel and also developed Subsurface.
 
 3.) Git's initial release was 2005
 
