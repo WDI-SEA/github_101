@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1) Linus Torvalds
+2) Principal developer of the Linux kernel
+3) 2005
+4) git init
+5) Pushes committed files to github
+6) A text file that tells Git which files or folders to ignore in a project.
+7) A copy of a repository; So you can make edits without affecting the original repository.
+8) used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location; any amount
+9) no
+10) yes
