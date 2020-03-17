@@ -1,3 +1,21 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+
+1. Linus Torvalds
+
+2. Linux
+
+3. 2005
+
+4. git init
+
+5. Pushes your repo up to the branch that is determined by you to a remote server. 
+
+6. Gives a list of what files to ignore, such as sensitive files or unimportant ones.
+
+7. A fork is when you create a copy of a repo but on your own profile that doesn’t affect the original repo version on another user’s profile. This serves as a control to not alter another’s work in a damaging way. 
+
+8. A clone is when you clone a project from a repo, that could be yours or someone else’s, and pull it down to your local machine to tinker with it. It’s an exact replica from source. 
+
+9. No. You should not. It gets messy. 
+
+10. True. 
+
