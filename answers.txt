@@ -1,3 +1,21 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Gared Barney
+
+1) Linus Torvalds
+
+2) Linux
+
+3) 2005
+
+4) git init
+
+5) It is how we move the code we worked on locally back to the remote repository.
+
+6 ) It is used to ignore specific files that you do not want to be pushed from your local repository.
+
+7) A fork is a copy of someone elses repository that you copy to your own remote repository and does not effect the master copy of the program.
+
+8) A clone is the copy of the source code of a repository that you can then change the code freely on. Unlimited amount of clones.
+
+9) No!
+
+10) True
