@@ -1,3 +1,26 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+----  Scott McLeod
+
+1. Git was created by Linus Torvalds in 2005.
+
+2. Linus Torvalds is also very well known for being Swedish, being the principal 
+    developer of linux was also a great achievement. 
+
+3. 2005, also the year I graduated high school.
+
+4. git init
+
+5. git push is a command used to send content from the local repository (where 
+    it is being stored on your computer) and sending it a remote repository (in our case
+    that will be gitHub).
+
+6. The purpose of a 'gitignore' file is to create somewhere for you to store information
+    that you don't want to be read.
+
+7. A fork is a copy of a repository that allows you to make changes of ones own choosing 
+    without actually changing the original file.
+
+8. A clone is a copy of a git repository. Just one?
+
+9. NEVER
+
+10. True
