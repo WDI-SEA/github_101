@@ -1,3 +1,5 @@
+Sharon Leeß
+
 ## Quiz Questions
 
 #### 1. Who invented Git?
