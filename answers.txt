@@ -1,4 +1,4 @@
-Sharon Leeß
+Sharon Lee
 
 ## Quiz Questions
 
@@ -13,9 +13,10 @@ Linus is also the father of the Linux kernel.
 
 #### 4. What is the git command to initialize a new repository?
 git init
+This command creates a new repo. We can either initialize a new empty repo or tell git to start tracking revisions in an existing folder that we have navigated to.
 
 #### 5. In your own words, describe what the command `git push` is doing.
-This command creates a new repo. We can either initialize a new empty repo or tell git to start tracking revisions in an existing folder that we have navigated to.
+Git push uploads the local repo content to the remote repo.
 
 #### 6. What is the purpose of a `.gitignore` file?
 To  track files that should be ignored. These can include personal IDE configs, runtime generated codes or hidden system files. 
