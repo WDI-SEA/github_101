@@ -1,3 +1,23 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+1.) Linus Torvalds
+
+2.) He was a principle developer of Linux Kernal and also developed Subsurface.
+
+3.) Git's initial release was 2005
+
+4.) git init
+
+5.) git push is taking all the recent commits and sending it to GitHub.
+
+6.) gitignore tells git to omit/ignore certain files and folders.
+
+7.) A fork is a copy of a repository which is useful when making changes to someone else's code without affecting the master.
+
+8.) A clone is local copy of a repository. You can clone the repository any number of times but generally you would only clone it once per local or remote machine.
+
+9.) Generally you shouldn't but you can put a git repo into another git repo, this is called making a submodule.
+
+10.) true
