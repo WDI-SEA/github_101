@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. The Linux Kernal
+3. 2005
+4. mkdir
+5. git push is updating the files on the remote server, with the files that have been recently added and commited from the local source.
+6. It allows you to tell git to not track certain files.
+7. Fork copies the file from the source and makes a copy of it on your own personal remote server. It is good because it allows you to take open source code and edit it in any way you want without doing anything to the original.
+8. Cloning allows you to copy the code from the remote repository and copy it onto your local machine. You can have one clone per respository, since that corresponds to that specific repository. But you can clone as many things as you want in total
+9. No, never, don't do it
+10. true
