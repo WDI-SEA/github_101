@@ -1,3 +1,22 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Ryan (Chuck Wagon)
+SEI 30-SEA
+
+1. Linus Torvalds created GitHub in 2005.
+
+2. Linus is also known for creating Linux and has a net worth of $150 million
+
+3. Git was invented in 2005.
+
+4. The git command to initialize a new repository is git init.
+
+5. Git push is transferring a commit to a branch.
+
+6. The purpose of a .gitignore file is to sometimes prevent private data from being on the internet or sometimes files are too large to include in a commit
+
+7. A fork is the way one copies code from a user on GitHub to then clone it for making edits to the code.
+
+8. A clone is a copy of the code that can be editted then commited back to gitHub.
+
+9. I don't know if putting a Github repository inside another Github repository constitutes best practices. It may be superfluous such as an attempt to search "google" in the google search box. 
+
+10. True, you can type git status at any time while in a git repository. 
