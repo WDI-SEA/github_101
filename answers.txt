@@ -1,6 +1,12 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. send local changes to remote repo
+6. ignore large files/folders to minimize loading
+7. copy the remote remote master to be edited
+8. creates the editable copy locally
+9. never repo-ception
+10. true
 
-WRITE YOUR ANSWERS HERE!
-stage my changes using git add .
+Chris Goss
