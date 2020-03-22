@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Linus Torvalds
 2. Linux
 3. 2005
@@ -10,3 +11,9 @@
 10. true
 
 Chris Goss
+=======
+Your answers go here!
+Please include your name and number your answers.
+==================================================
+making a change to test
+>>>>>>> df91f6d12ae4fa990923aecdfea1ac8b8f679b7b
